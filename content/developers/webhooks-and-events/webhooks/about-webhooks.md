@@ -5,7 +5,7 @@ redirect_from:
   - /webhooks
   - /developers/webhooks-and-events/about-webhooks
 versions:
-  fpt: '*'
+  fpt:  '*'
   ghes: '*'
   ghae: '*'
   ghec: '*'
